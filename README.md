@@ -39,7 +39,7 @@ This is a sentiment analysis application built using Python, Streamlit, and Tens
 1. Run the Streamlit app:
    ```bash
    streamlit run app.py
-2. Open your web browser and navigate to http://localhost:8501](https://saurabh-sentimentanalysis.streamlit.app/ to use the application
+2. Open your web browser and navigate to https://saurabh-sentimentanalysis.streamlit.app/ to use the application
 3. Enter any text in the input area and click the "Predict Sentiment" button to see the sentiment analysis result.
 
 # Model Details
