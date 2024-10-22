@@ -1,3 +1,7 @@
+# Screenshot
+![Screenshot 2024-10-22 212555](https://github.com/user-attachments/assets/be75be71-60cf-49dd-9c6e-d5b9821adfb1)
+
+
 # sentiment-analysis-using-LSTM
 
 This is a sentiment analysis application built using Python, Streamlit, and TensorFlow/Keras. The app allows users to input text and receive sentiment predictions, classifying the text as either positive or negative.
